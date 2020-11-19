@@ -1,0 +1,11 @@
+Wat heb ik gedaan?
+
+Ik ga samen met mijn collega een applicatie bouwen waarbij wij de afvalScontainer kunnen scannen van bedrijven.
+
+Wat ga ik doen?
+Ik ga in android een qr scanner maken
+
+
+Waar ben ik tegenaan gelopen?
+
+Wij zijn tegen gelopen bij het gebruiken van git hub omdat we niet weten hoe je met andere mensen (collab) gaan werken.
